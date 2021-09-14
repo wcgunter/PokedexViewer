@@ -1,0 +1,10 @@
+This Java project downloads information about Pokemon from an online Pokedex and displays it in a user-friendly interface.
+It grabs information including:
+  - Name
+  - Type(s)
+  - Sprite
+  - Stats
+The application supports sorting by stats, name, and type.
+The application also supports expanding of the Pokedex to include future generations.
+
+  
